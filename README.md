@@ -6,5 +6,5 @@ This microservice will be used as an microservice example in this event: https:/
 ## Usage
 
 ```shell
-curl -i -XPOST -H 'X-Auth: token' -H 'Content-Type: application/json' -d '{ "message":"Teste4" }' 'http://localhost/users/123/posts'
+curl -i -XPOST -H 'X-Auth: accessToken' -H 'Content-Type: application/json' -d '{ "message":"Teste4" }' 'http://localhost:8080/users/123/posts'
 ```
