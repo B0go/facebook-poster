@@ -1,7 +1,7 @@
 # Facebook Poster
 Java Microservice to post to Facebook
 
-This microservice will be used as an microservice example in this: https://www.eventbrite.com.br/e/minicurso-microservicos-do-conceito-ao-codigo-tickets-37631005350
+This microservice will be used as an microservice example in this event: https://www.eventbrite.com.br/e/minicurso-microservicos-do-conceito-ao-codigo-tickets-37631005350
 
 ## Usage
 
