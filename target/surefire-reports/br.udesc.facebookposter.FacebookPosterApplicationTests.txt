@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.udesc.facebookposter.FacebookPosterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.307 sec - in br.udesc.facebookposter.FacebookPosterApplicationTests
