@@ -1,6 +1,0 @@
-br/udesc/facebookposter/FacebookPosterApplication.class
-br/udesc/facebookposter/controllers/PostController.class
-br/udesc/facebookposter/dtos/CreatedPostDto.class
-br/udesc/facebookposter/dtos/PostDto.class
-br/udesc/facebookposter/interactions/FacebookPostCreation.class
-br/udesc/facebookposter/interactions/FacebookClient.class
